@@ -1,30 +1,24 @@
 <h1 align="left">Hi 👋, I'm Indranil</h1>
 <h3 align="left">A passionate frontend & blockchain developer from Assam, India</h3>
 <h5>Currently a CSE specialization in Blockchain Tech student at Chandigarh University'25</h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indranilchutia&label=Profile%20views&color=0e75b6&style=flat" alt="indranilchutia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=indranilchutia&label=Profile%20views&color=0e75b6&style=flat" alt="indranilchutia" /></p>
+<hr/>
+<a href="https://app.daily.dev/Tiku03"><img align="right" src="https://api.daily.dev/devcards/cc2e114f2ed04ea2ab4c2be0b4680ae3.png?r=fvi" width="300" alt="Indranil Chutia's Dev Card"/></a>
 
-<hr/> 
 
-<div style="display: flex">
-  <div>
-      -  
 - 🌱 I’m currently learning **NextJS, MERN Stack & DSA**
 
 - 💬 Ask me about **React, Blockchain**
 
 - 📫 How to reach me **indranilchutia0308@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1X4JheJTgcCNSds2I3ofKxBYAfImEgFCv/view?usp=sharing)
-
-
-  </div>
-  
-</div>
+- 📄 Know about my experiences: [My Resume [Click Me]](https://drive.google.com/file/d/1X4JheJTgcCNSds2I3ofKxBYAfImEgFCv/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/indranilchutia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indranilchutia" height="30" width="40" /></a>
+<a href="https://twitter.com/tikunotcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tikunotcoder" height="30" width="40" /></a>
 <a href="https://dribbble.com/tiku03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tiku03" height="30" width="40" /></a>
 <a href="https://www.behance.net/indranilchutia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="indranilchutia" height="30" width="40" /></a>
 </p>
@@ -58,4 +52,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <hr/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indranilchutia&show_icons=true&locale=en&layout=compact" alt="indranilchutia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indranilchutia&show_icons=true&locale=en&layout=compact" alt="indranilchutia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indranilchutia&show_icons=true&locale=en" alt="indranilchutia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indranilchutia&" alt="indranilchutia" /></p>
