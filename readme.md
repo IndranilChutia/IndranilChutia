@@ -53,7 +53,3 @@
 
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indranilchutia&show_icons=true&locale=en&layout=compact" alt="indranilchutia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indranilchutia&show_icons=true&locale=en" alt="indranilchutia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indranilchutia&" alt="indranilchutia" /></p>
