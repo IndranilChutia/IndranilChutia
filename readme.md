@@ -16,6 +16,8 @@
 
 - ⚡ I do UI/UX design as a hobby: [Dribbble Link](https://dribbble.com/Tiku03)
 
+- 📖 I like reading tech articles & listening to podcasts in my free time 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
