@@ -6,7 +6,7 @@
 <a href="https://app.daily.dev/Tiku03"><img align="right" src="https://api.daily.dev/devcards/cc2e114f2ed04ea2ab4c2be0b4680ae3.png?r=fvi" style="width: 30%" alt="Indranil Chutia's Dev Card"/></a>
 
 
-- 🌱 I’m currently learning **NextJS, MERN Stack & DSA**
+- 🌱 I’m currently learning **Backend, NextJS & DSA**
 
 - 💬 Ask me about **React, Blockchain**
 
