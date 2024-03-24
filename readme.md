@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=js,solidity,html,css,cpp,python,typescript,"/>
 
 <h3 align="left">Frameworks:</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express"/>
   
 <h3 align="left">Tools, Libraries, Others:</h3>
   <img src="https://skillicons.dev/icons?i=tailwind,sass,nodejs,mongo,mysql,postgres,ipfs,vite,git,linux,bootstrap,redux,figma,postman"/>
