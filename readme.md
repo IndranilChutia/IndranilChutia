@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **indranilchutia0308@gmail.com**
 
-- 📄 Know about my experiences: [My Resume [Click Me]](https://drive.google.com/file/d/1SvwoRbelORIWEdYxI_YUQdHU7UrElUNo/view?usp=drive_link)
-
+- 📄 Know about my experiences: [My Resume [Click Me]](https://drive.google.com/file/d/1QEkuiGQ6Yi6sJAOq6JyTmb9OLA0B9gIM/view?usp=sharing)
 - ⚡ I do UI/UX design as a hobby: [Dribbble Link](https://dribbble.com/Tiku03)
 
 - 📖 I like reading tech articles & listening to podcasts in my free time 
