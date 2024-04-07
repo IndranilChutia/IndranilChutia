@@ -3,7 +3,7 @@
 <h5>Currently a CSE specialization in Blockchain Tech student at Chandigarh University'25</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indranilchutia&label=Profile%20views&color=0e75b6&style=flat" alt="indranilchutia" /></p>
 <hr/>
-<a href="https://app.daily.dev/tiku03"><img align="right" src="https://api.daily.dev/devcards/v2/Ck2ycPHLdur9oJjdtGqMl.png?type=default&r=jxv" width="30%" alt="Indranil Chutia's Dev Card"/></a>
+<a href="https://app.daily.dev/tiku03"><img align="right" src="https://api.daily.dev/devcards/v2/Ck2ycPHLdur9oJjdtGqMl.png?type=default&r=jxv" width="35%" alt="Indranil Chutia's Dev Card"/></a>
 
 
 - 🌱 I’m currently learning **Backend, NextJS & DSA**
