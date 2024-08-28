@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Indranil</h1>
 <h3 align="left">A passionate Frontend & Blockchain Developer from Assam, India</h3>
-<h5>Frontend Developer at @toddle-edu & B.E CSE (Blockchain Tech) student at Chandigarh University'25</h5>
+<h5>Frontend Developer at <a href="https://www.toddleapp.com/" target="_blank">Toddle</a> <img src="https://www.toddleapp.com/wp-content/uploads/2021/02/toddle.svg" width="16px" alt="toddle_logo"/> & B.E CSE (Blockchain Tech) student at Chandigarh University'25</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indranilchutia&label=Profile%20views&color=0e75b6&style=flat" alt="indranilchutia" /></p>
 <hr/>
 <a href="https://app.daily.dev/tiku03"><img align="right" src="https://api.daily.dev/devcards/v2/Ck2ycPHLdur9oJjdtGqMl.png?type=default&r=jxv" width="35%" alt="Indranil Chutia's Dev Card"/></a>
